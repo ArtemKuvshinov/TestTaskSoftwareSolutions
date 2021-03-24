@@ -1,0 +1,15 @@
+{
+  "apiKey": "A3UjPbZPwJ8iAULPWV5PJfkBDxe7xZyNQKdMESUGF9TEPp8xPcuUp9FfKJ6O",
+  "sms": [
+    {
+      "channel": "char",
+      "phone": "79277010319",
+      "text": "Привет.",
+      "sender": "VIRTA"
+    }
+  ]
+}
+
+result
+
+{"status":"success","data":[{"message":"Hello","createdAt":1616350993,"id":520893862,"status":"sent","phone":"79277010319"}]}
